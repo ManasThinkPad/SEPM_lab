@@ -1,6 +1,6 @@
 # Software Engineering and Project Management Lab Work
 
-This repository contains the laboratory work completed during the 6th semester as part of the Software Engineering and Project Management (SEPM) course at SRM Institute of Science and Technology, NCR Campus. The collection includes a series of experiments and two comprehensive assignments that demonstrate the application of software engineering principles and project management methodologies.
+This repository contains the laboratory work completed during the 6th semester as part of the Software Engineering and Project Management (SEPM) course at Thadomal Shahani Engineering College, Bandra, Mumbai . The collection includes a series of experiments and two comprehensive assignments that demonstrate the application of software engineering principles and project management methodologies.
 
 ## Contents
 
